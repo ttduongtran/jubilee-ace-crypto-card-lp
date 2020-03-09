@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="63px" viewBox="0 0 88 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icon/Card</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="26" y="52" width="10" height="4" rx="2"></rect>
+        <filter x="-35.0%" y="-62.5%" width="170.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.811764706   0 0 0 0 0.0274509804  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="40" y="52" width="10" height="4" rx="2"></rect>
+        <filter x="-35.0%" y="-62.5%" width="170.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.811764706   0 0 0 0 0.0274509804  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="54" y="52" width="10" height="4" rx="2"></rect>
+        <filter x="-35.0%" y="-62.5%" width="170.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.811764706   0 0 0 0 0.0274509804  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="68" y="52" width="10" height="4" rx="2"></rect>
+        <filter x="-35.0%" y="-62.5%" width="170.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.811764706   0 0 0 0 0.0274509804  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Revollet_LandingPage" transform="translate(-447.000000, -4150.000000)">
+            <g id="E-wallet" transform="translate(425.000000, 3576.000000)">
+                <g id="1" transform="translate(0.000000, 542.000000)">
+                    <g id="Icon/Card" transform="translate(20.000000, 26.000000)">
+                        <g>
+                            <rect id="Rectangle" x="0" y="0" width="100" height="70"></rect>
+                            <g id="Group-4" transform="translate(7.500000, 11.500000) scale(1, -1) rotate(-360.000000) translate(-7.500000, -11.500000) translate(3.000000, 7.000000)" stroke="#14161C" stroke-linecap="round" stroke-width="2">
+                                <path d="M5.00869593,-3.99680289e-15 C3.89565239,4.88498131e-15 2.22608708,4.88498131e-15 4.54747351e-13,4.88498131e-15" id="Shape"></path>
+                                <path d="M10.7675018,5.75054979 C9.65445827,5.75054979 7.98489296,5.75054979 5.75880588,5.75054979" id="Shape-Copy" transform="translate(8.263154, 6.250550) rotate(90.000000) translate(-8.263154, -6.250550) "></path>
+                            </g>
+                            <path d="M24,24 L84,24 C87.3137085,24 90,26.6862915 90,30 L90,61 C90,65.418278 86.418278,69 82,69 L24,69 C20.6862915,69 18,66.3137085 18,63 L18,30 C18,26.6862915 20.6862915,24 24,24 Z" id="Rectangle-Copy-12" fill="#FFCF07"></path>
+                            <rect id="Rectangle-Copy-42" stroke="#14161C" stroke-width="2" x="15" y="21" width="72" height="45" rx="6"></rect>
+                            <rect id="Rectangle-Copy-14" fill="#FFFFFF" x="60" y="36" width="18" height="3" rx="1.5"></rect>
+                            <rect id="Rectangle-Copy-14" fill="#FFFFFF" x="66" y="41" width="12" height="3" rx="1.5"></rect>
+                            <g id="Rectangle-Copy-13">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#14161C" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                            <g id="Rectangle-Copy-26">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#14161C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                            <g id="Rectangle-Copy-27">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#14161C" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                            <g id="Rectangle-Copy-28">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#14161C" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                            <circle id="Oval" stroke="#14161C" stroke-width="2" fill="#14161C" cx="25" cy="28" r="15"></circle>
+                            <g id="np_dollar_1799967_000000" transform="translate(21.000000, 20.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.5">
+                                <path d="M4.54350526,6.50518855 L3.45523656,6.50518855 C2.60699889,6.50518855 1.93504001,5.77861788 2.03130845,4.94227845 C2.1113188,4.20029721 2.79953578,3.67911665 3.551505,3.67911665 L4.83167052,3.67911665 C5.31173259,3.67911665 5.71178431,4.01094925 5.80805276,4.45255062 C5.83993208,4.57898996 5.95182175,4.65794073 6.07995992,4.65794073 L7.52014612,4.65794073 C7.68016681,4.65794073 7.8239294,4.51608134 7.80831138,4.35819243 C7.66454239,2.92109325 6.48001164,1.80044768 5.00794931,1.70539475 L5.00794931,0.284337722 C5.00794931,0.126442497 4.87980794,0 4.71978405,0 L3.27959785,0 C3.11957716,0 2.99143259,0.126439339 2.99143259,0.284337722 L2.99143259,1.72143691 C1.19936089,1.95766395 -0.160814974,3.55270573 0.0153678051,5.43134312 C0.191646597,7.19961175 1.80743951,8.49419471 3.59951121,8.49419471 L4.54337725,8.49419471 C5.39161492,8.49419471 6.0635738,9.22076538 5.96730535,10.0571048 C5.88729501,10.7990861 5.19907802,11.3202666 4.4471088,11.3202666 L3.16694328,11.3202666 C2.68688121,11.3202666 2.28682949,10.988434 2.19056104,10.5468326 C2.15868172,10.4203933 2.04679205,10.3414425 1.91865389,10.3414425 L0.479091761,10.3420593 C0.319071072,10.3420593 0.175308484,10.4839187 0.190926504,10.6418076 C0.334695492,12.0789067 1.51922624,13.1995523 2.99128857,13.2946052 L2.99128857,14.7156623 C2.99128857,14.8735575 3.11942994,15 3.27945383,15 L4.71964004,15 C4.87966073,15 5.00780529,14.8735607 5.00780529,14.7156623 L5.00780529,13.2631525 C6.54425995,13.0102675 7.82448947,11.8260533 7.98451016,10.2631432 C8.17640697,8.22661062 6.55995798,6.50507897 4.54342525,6.50507897 L4.54350526,6.50518855 Z" id="Path-Copy-2"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

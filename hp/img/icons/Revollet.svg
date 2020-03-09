@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="68px" viewBox="0 0 78 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icon/Revollet</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Revollet_LandingPage" transform="translate(-437.000000, -351.000000)">
+            <g id="Revollet" transform="translate(438.000000, 290.000000)">
+                <g id="Icon/Revollet" transform="translate(0.000000, 62.000000)">
+                    <g id="Group-5" transform="translate(0.660870, 0.659780)">
+                        <g id="Group" transform="translate(8.765218, 9.000880)">
+                            <path d="M7.57391229,3.33933984 L54.5739123,3.33933984 C57.8876208,3.33933984 60.5739123,6.02563134 60.5739123,9.33933984 L60.5739123,41.3393398 C60.5739123,45.7576178 56.9921903,49.3393398 52.5739123,49.3393398 L9.57391229,49.3393398 C6.26020379,49.3393398 3.57391229,46.6530483 3.57391229,43.3393398 L3.57391229,7.33933984 C3.57391229,5.13020084 5.36477329,3.33933984 7.57391229,3.33933984 Z" id="Rectangle" fill="#FFCF07"></path>
+                            <rect id="Rectangle" stroke="#14161C" stroke-width="2" x="0.600003147" y="0.33933984" width="57" height="46" rx="6"></rect>
+                            <ellipse id="Oval" stroke="#272937" stroke-width="2" fill="#14161C" cx="8.76521787" cy="8.75076971" rx="1.25217398" ry="1.25010996"></ellipse>
+                            <ellipse id="Oval" stroke="#14161C" stroke-width="2" fill="#14161C" cx="16.2782618" cy="8.75076971" rx="1.25217398" ry="1.25010996"></ellipse>
+                            <ellipse id="Oval" stroke="#14161C" stroke-width="2" fill="#14161C" cx="23.7913056" cy="8.75076971" rx="1.25217398" ry="1.25010996"></ellipse>
+                        </g>
+                        <rect id="Rectangle" fill="#FFFFFF" x="29.3391302" y="29.3402195" width="14" height="8" rx="2"></rect>
+                        <rect id="Rectangle-Copy-47" fill="#FFFFFF" x="15.3391302" y="29.3402195" width="10" height="3" rx="1.5"></rect>
+                        <rect id="Rectangle-Copy-48" fill="#FFFFFF" x="15.3391302" y="34.3402195" width="8" height="3" rx="1.5"></rect>
+                        <rect id="Rectangle-Copy-46" fill="#FFFFFF" x="29.3391302" y="39.3402195" width="14" height="8" rx="2"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="46.3391302" y="29.3402195" width="14" height="8" rx="2"></rect>
+                        <rect id="Rectangle-Copy-46" fill="#FFFFFF" x="46.3391302" y="39.3402195" width="14" height="8" rx="2"></rect>
+                        <g id="Group-4" transform="translate(70.630439, 4.500880) rotate(-180.000000) translate(-70.630439, -4.500880) translate(66.130439, 0.000880)" stroke="#14161C" stroke-linecap="round" stroke-width="2">
+                            <path d="M5.00869593,-4.4408921e-15 C3.89565239,4.4408921e-15 2.22608708,4.4408921e-15 0,4.4408921e-15" id="Shape"></path>
+                            <path d="M10.0173919,5.00043983 C8.90434831,5.00043983 7.234783,5.00043983 5.00869593,5.00043983" id="Shape-Copy" transform="translate(7.513044, 6.250550) rotate(90.000000) translate(-7.513044, -6.250550) "></path>
+                        </g>
+                        <g id="Group-4" transform="translate(4.500000, 60.505278) rotate(-360.000000) translate(-4.500000, -60.505278) translate(0.000000, 56.005278)" stroke="#14161C" stroke-linecap="round" stroke-width="2">
+                            <path d="M5.00869593,-3.99680289e-15 C3.89565239,4.88498131e-15 2.22608708,4.88498131e-15 0,4.88498131e-15" id="Shape"></path>
+                            <path d="M10.7675018,5.75054979 C9.65445827,5.75054979 7.98489296,5.75054979 5.75880588,5.75054979" id="Shape-Copy" transform="translate(8.263154, 6.250550) rotate(90.000000) translate(-8.263154, -6.250550) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
