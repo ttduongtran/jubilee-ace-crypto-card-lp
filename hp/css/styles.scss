@@ -383,8 +383,10 @@ body {
             width: auto;
           }
           .set-w300 {
+            max-width: 220px;
+            width: 220px;
             height: 100%;
-            width: 60% !important;
+            margin-left: 0;
           }
           .set-w {
             height: 100%;

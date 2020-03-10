@@ -391,8 +391,10 @@ body {
 }
 
 .R-card__card .card-right .wrapper-content .remove-border .set-w300 {
+  max-width: 220px;
+  width: 220px;
   height: 100%;
-  width: 60% !important;
+  margin-left: 0;
 }
 
 .R-card__card .card-right .wrapper-content .remove-border .set-w {
@@ -443,6 +445,14 @@ body {
   max-width: 80%;
 }
 
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
