@@ -26,19 +26,6 @@
 
 @font-face {
   font-family: "Rubik";
-  src: url(/hp/fonts/Rubik-Medium.ttf);
-  font-weight: 500;
-}
-
-@font-face {
-  font-family: "Rubik";
-  src: url(/hp/fonts/Rubik-MediumItalic.ttf);
-  font-weight: 500;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Rubik";
   src: url(/hp/fonts/Rubik-Regular.ttf);
   font-weight: 400;
 }
@@ -199,7 +186,7 @@ body {
     }
   }
   &__leftSide {
-    padding-top: pixel-to-rem(160);
+    padding-top: pixel-to-rem(140);
     position: relative;
     z-index: 2;
   }
@@ -226,8 +213,7 @@ body {
   }
 
   &__rightSide {
-    padding-top: pixel-to-rem(100);
-    padding-right: 0;
+    padding-top: pixel-to-rem(80);
     position: relative;
     z-index: 1;
   }
@@ -249,7 +235,6 @@ body {
       padding-top: pixel-to-rem(169);
     }
     &__rightSide {
-      padding-top: pixel-to-rem(52);
       max-width: none;
     }
     &__circle {
@@ -334,10 +319,24 @@ body {
 //custom R-card
 .Campaign {
   padding: 40px 0px;
+  position: relative;
+  .line {
+    position: absolute;
+    height: 4px;
+    background: #ffd007;
+    left: 0;
+    right: 0;
+    top: 50%;
+  }
   &__wrapper {
     text-align: center;
     > img {
       width: 100%;
+    }
+  }
+  @media (max-width: $mobileMaxWidth) {
+    .line {
+      height: 20px;
     }
   }
 }

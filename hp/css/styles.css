@@ -22,17 +22,6 @@
 }
 @font-face {
   font-family: "Rubik";
-  src: url(/hp/fonts/Rubik-Medium.ttf);
-  font-weight: 500;
-}
-@font-face {
-  font-family: "Rubik";
-  src: url(/hp/fonts/Rubik-MediumItalic.ttf);
-  font-weight: 500;
-  font-style: italic;
-}
-@font-face {
-  font-family: "Rubik";
   src: url(/hp/fonts/Rubik-Regular.ttf);
   font-weight: 400;
 }
@@ -182,7 +171,7 @@ body {
 }
 
 .Revollet__leftSide {
-  padding-top: 10rem;
+  padding-top: 8.75rem;
   position: relative;
   z-index: 2;
 }
@@ -214,8 +203,7 @@ body {
 }
 
 .Revollet__rightSide {
-  padding-top: 6.25rem;
-  padding-right: 0;
+  padding-top: 5rem;
   position: relative;
   z-index: 1;
 }
@@ -240,7 +228,6 @@ body {
   }
 
   .Revollet__rightSide {
-    padding-top: 3.25rem;
     max-width: none;
   }
 
@@ -332,6 +319,16 @@ body {
 
 .Campaign {
   padding: 40px 0px;
+  position: relative;
+}
+
+.Campaign .line {
+  position: absolute;
+  height: 4px;
+  background: #ffd007;
+  left: 0;
+  right: 0;
+  top: 50%;
 }
 
 .Campaign__wrapper {
@@ -342,6 +339,11 @@ body {
   width: 100%;
 }
 
+@media (max-width: 767px) {
+  .Campaign .line {
+    height: 20px;
+  }
+}
 .R-card {
   padding: 40px 0px;
 }
@@ -445,6 +447,28 @@ body {
   max-width: 80%;
 }
 
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
