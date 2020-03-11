@@ -339,9 +339,21 @@ body {
   width: 100%;
 }
 
+.Campaign__wrapper .banner-mobile {
+  display: none;
+}
+
 @media (max-width: 767px) {
   .Campaign .line {
-    height: 20px;
+    height: 30vh;
+  }
+
+  .Campaign__wrapper .banner-des-tab {
+    display: none;
+  }
+
+  .Campaign__wrapper .banner-mobile {
+    display: block;
   }
 }
 .R-card {
@@ -447,42 +459,6 @@ body {
   max-width: 80%;
 }
 
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
