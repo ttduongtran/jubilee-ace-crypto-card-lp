@@ -159,6 +159,15 @@
     margin: 0 auto;
 }
 
+.title_boder {
+  font-size: 4rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border: 4px dashed gainsboro;
+  border-left: 0;
+  border-right: 0;
+  font-weight: bold;
+}
 @media screen and (max-width: 767px) {
   .news .card-news .card-body .img-wrapper {
     height: auto;
@@ -173,4 +182,11 @@
     -moz-transform: none;
     -webkit-transform: none;
   } 
+  .title_boder {
+    font-size: 2rem;
+    padding: .5rem;
+    border: 4px dashed gainsboro;
+    border-left: 0;
+    border-right: 0;
+  }
 }
