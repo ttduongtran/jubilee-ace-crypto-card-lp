@@ -1,4 +1,0 @@
-module.exports = {
-    SUBSCRIBE_RATE: 'SUBSCRIBE_RATE',
-    UNSUBSCRIBE_RATE: 'UNSUBSCRIBE_RATE',
-};
