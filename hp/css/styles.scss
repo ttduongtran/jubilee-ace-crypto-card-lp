@@ -181,9 +181,24 @@ html {
   z-index: 1;
   &__title {
     text-align: center;
-    margin-top: 20px;
-    > img {
-      width: 80%;
+    margin-top: 80px;
+
+    > h1 {
+      font-weight: 400;
+      font-size: 60px;
+      color: #747685;
+    }
+    @media (max-width: $mobileMaxWidth) {
+      > h1 {
+        font-weight: 600;
+        font-size: 40px;
+      }
+    }
+    @media (max-width: 425px) {
+      > h1 {
+        font-weight: 600;
+        font-size: 20px;
+      }
     }
   }
   &__leftSide {
@@ -212,7 +227,6 @@ html {
       }
     }
   }
-
   &__rightSide {
     padding-top: pixel-to-rem(80);
     position: relative;
@@ -230,12 +244,13 @@ html {
     right: 0;
     z-index: 1;
   }
-
   @media (max-width: $mobileMaxWidth) {
     &__leftSide {
-      padding-top: pixel-to-rem(169);
+      padding-top: pixel-to-rem(80) !important;
     }
+
     &__rightSide {
+      padding-top: pixel-to-rem(10) !important;
       max-width: none;
     }
     &__circle {
@@ -350,6 +365,9 @@ html {
         display: block;
       }
     }
+  }
+  @media (max-width: $mobileMaxWidth) {
+    padding: 20px 0px;
   }
 }
 .R-card {
