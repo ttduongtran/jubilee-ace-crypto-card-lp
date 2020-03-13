@@ -114,6 +114,8 @@ html {
 .TopMenu .flag-dropdown ul {
   min-width: auto;
   background-color: #282828;
+  left: auto;
+  right: 0;
 }
 
 .TopMenu .navbar-right {
