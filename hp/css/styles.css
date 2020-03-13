@@ -46,13 +46,15 @@ body,
 html {
   font-family: Rubik;
   color: #14161c;
+  font-size: 16px;
+  font-weight: 200;
 }
 
 /* MEDIA QUERIES */
 /* Mobile */
 @media (max-width: 575px) {
   :root {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 @media (min-width: 576px) {
@@ -453,7 +455,7 @@ html {
 }
 
 .R-card__card .card-right .wrapper-content .remove-border .card-title {
-  font-weight: 400;
+  font-weight: 200;
 }
 
 .R-card__card .card-right .wrapper-content .remove-border .card-title span {
@@ -530,6 +532,64 @@ html {
   max-width: 80%;
 }
 
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */

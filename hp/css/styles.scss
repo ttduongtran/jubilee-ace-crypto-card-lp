@@ -60,13 +60,15 @@ body,
 html {
   font-family: Rubik;
   color: #14161c;
+  font-size: 16px;
+  font-weight: 200;
 }
 
 /* MEDIA QUERIES */
 /* Mobile */
 @media (max-width: 575px) {
   :root {
-    font-size: 10px;
+    font-size: 12px;
   }
 }
 
@@ -438,7 +440,7 @@ html {
           border: none !important;
 
           .card-title {
-            font-weight: 400;
+            font-weight: 200;
             span {
               font-weight: 500;
             }
