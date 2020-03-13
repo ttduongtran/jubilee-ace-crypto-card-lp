@@ -130,6 +130,35 @@ html {
   z-index: 2;
   padding: 10px 0px;
   border-bottom: 2px solid #ffcf07;
+  .flag-dropdown ul {
+    min-width: auto;
+    background-color: #282828;
+  }
+  .navbar-right {
+    float: right;
+    .navbar-text {
+      margin-right: 15px;
+      margin-bottom: 0px;
+      width: 100%;
+      text-align: right;
+    }
+
+    @media (max-width: $mobileMaxWidth) {
+      .custom-position-flag {
+        width: 100%;
+        text-align: right;
+      }
+    }
+  }
+  .custom-dropdown-flags > li > a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color: #333;
+    white-space: nowrap;
+  }
 
   @media (max-width: $mobileMaxWidth) {
     .navbar {

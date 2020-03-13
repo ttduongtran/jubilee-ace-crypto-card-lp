@@ -109,6 +109,38 @@ html {
   border-bottom: 2px solid #ffcf07;
 }
 
+.TopMenu .flag-dropdown ul {
+  min-width: auto;
+  background-color: #282828;
+}
+
+.TopMenu .navbar-right {
+  float: right;
+}
+
+.TopMenu .navbar-right .navbar-text {
+  margin-right: 15px;
+  margin-bottom: 0px;
+  width: 100%;
+  text-align: right;
+}
+
+@media (max-width: 767px) {
+  .TopMenu .navbar-right .custom-position-flag {
+    width: 100%;
+    text-align: right;
+  }
+}
+.TopMenu .custom-dropdown-flags > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: 400;
+  line-height: 1.42857143;
+  color: #333;
+  white-space: nowrap;
+}
+
 @media (max-width: 767px) {
   .TopMenu .navbar {
     padding: 1rem;
@@ -498,42 +530,6 @@ html {
   max-width: 80%;
 }
 
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
-/*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
 /*# sourceMappingURL=styles.css.map */
