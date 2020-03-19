@@ -197,6 +197,14 @@
   font-weight: bold;
 }
 
+.cash_in {
+  color: #228B22;
+}
+
+.cash_out {
+  color: #B22222;
+}
+
 @media screen and (max-width: 767px) {
   .news .card-news .card-body .img-wrapper {
     height: auto;
